@@ -1,10 +1,7 @@
 alteração inicial
 alteração segunda
 alteração terceira
-<<<<<<< HEAD
 mais algumas alterações
 outra alteração
-=======
 alteração diferente da main
 mais uma alteração na branch
->>>>>>> BranchdaGi
